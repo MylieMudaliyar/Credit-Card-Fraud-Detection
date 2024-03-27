@@ -1,4 +1,4 @@
-Performance metrics for each model on the balanced dataset: 
+**Performance metrics (classification report)** for each model on the **balanced dataset**: 
 
 ### Logistic Regression:
 
